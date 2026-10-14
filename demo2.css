@@ -1,0 +1,39 @@
+/* element {
+property:value;
+}
+*/
+
+/* h1{
+    color: rgb(35, 107, 134);
+    font-weight: bold;
+} */
+
+
+.font1{
+    color: white;
+    font-size: large;
+    font-weight:lighter;
+    background-color: blue;
+    text-align: center;
+}
+
+p{
+    line-height: 1.5 ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    text-align: justify;
+}
+
+div{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    /* border: 2px dotted red; */
+    /* border-top: 2px solid blue; */
+    margin-top: 20px;
+
+}
+
+div.second{
+    margin-left: 20px;
+}
